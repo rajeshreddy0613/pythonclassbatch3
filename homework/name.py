@@ -1,5 +1,5 @@
 name = "Dadi"
-vowels = "aeiouAEIOU"
+vowels = "aeiou"
 y = name[-1]
 
 for y in vowels:
